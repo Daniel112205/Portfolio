@@ -56,6 +56,12 @@ img {
 span {
     color: #b7b7b7;
 }
+header {
+    background-color: #222222;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+}
 /* Layouts */
 .container {
     width: 90%;
@@ -154,6 +160,7 @@ span {
 .intro {
     min-height: 100%;
     /* background-color: beige; */
+    padding-top: 120px;
 }
 .intro-greeting {
     font-size: 1.2rem;
@@ -223,6 +230,9 @@ span {
     }
     .font-weight-500 {
         font-weight: 250;
+    }
+    .intro {
+        padding-top: 200px;
     }
     /* .profile {
         width: 300px;
