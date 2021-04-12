@@ -159,7 +159,6 @@ header {
 /* Intro-Index/Home */
 .intro {
     min-height: 100%;
-    /* background-color: beige; */
     padding-top: 120px;
 }
 .intro-greeting {
@@ -234,15 +233,6 @@ header {
     .intro {
         padding-top: 200px;
     }
-    /* .profile {
-        width: 300px;
-        height: 300px;
-        border-radius: 80%;
-        border: solid 8px #54ca95;
-    } */
-    /* img {
-        max-width: auto;
-    } */
     .side-footer {
         display: flex;
     }
@@ -260,15 +250,6 @@ header {
     .font-weight-500 {
         font-weight: 350;
     }
-    /* .profile {
-        width: 300px;
-        height: 300px;
-        border-radius: 80%;
-        border: solid 8px #54ca95;
-    }
-    img {
-        max-width: auto;
-    } */
     .red-social .iconos {
         padding: 5px 26px;
     }
